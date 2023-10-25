@@ -1,8 +1,29 @@
-# React + Vite
+# React Starter with React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Kullanılan Teknolojiler
+- React
+- Tailwind CSS
+- React Router
+- React Icons
 
-Currently, two official plugins are available:
+## Katkıda Bulunma
+Eğer bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirsiniz:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Bu depoyu fork edin.
+- Yeni özellikler eklemek veya hata düzeltmeleri yapmak için bir dal (branch) oluşturun.
+- Yaptığınız değişiklikleri bu dalda yapın.
+- Değişikliklerinizi commit edin ve bir pull request oluşturun.
+
+## Klon Alma
+ ### Projenin Klonlanması
+ 
+    git clone https://github.com/fSenaErdogan/react-starter.git
+    
+ ### Projenin Klasörünün Adının Değiştirilmesi
+
+     cd react-starter
+     mv react-starter  new-project-name
+
+  ### Yeni Bir React Projesi Oluşturmak
+  
+    npx create-react-app new-project-name
